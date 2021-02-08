@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>New to jenkins</name>
-	      <url>http://ec2-52-66-236-95.ap-south-1.compute.amazonaws.com:8081/repository/welcome-jenkins-release//</url>
+	      <url>http://ec2-52-66-236-95.ap-south-1.compute.amazonaws.com:8081/repository/welcome-jenkins-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>New to jenkins release</name>
-	      <url>http://ec2-52-66-236-95.ap-south-1.compute.amazonaws.com:8081/repository/welcom-jenkins//</url>
+	      <url>http://ec2-52-66-236-95.ap-south-1.compute.amazonaws.com:8081/repository/welcom-jenkins/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
