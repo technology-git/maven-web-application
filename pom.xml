@@ -99,14 +99,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.103.28:8081/repository/flipkart-releases/</url>
+	      <name>New to jenkins</name>
+	      <url>http://ec2-52-66-236-95.ap-south-1.compute.amazonaws.com:8081/repository/welcome-jenkins-release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.103.28:8081/repository/flipkart-snapshot/</url>
+	      <name>New to jenkins release</name>
+	      <url>http://ec2-52-66-236-95.ap-south-1.compute.amazonaws.com:8081/repository/welcom-jenkins//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
